@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @KelvinBastow
-- 👀 I’m interested in ... Cycling, Ptohgraphy and all things Technology
-- 🌱 I’m currently learning ... Python and AWS to become a DevOps Engineer
-- 💞️ I’m looking to collaborate on ... anything
-- 📫 How to reach me ... email: kelvinb97@outlook.com LinkdIn: linkedin.com/in/kelvinbastow
+👋 Hi, I’m @KelvinBastow
+👀 I’m interested in: Cycling, Pthography and all things Technology!
+🌱 I’m currently learning: Python and AWS to become a DevOps Engineer
+💞️ I’m looking to collaborate on: Anything!!!
+📫 How to reach me: kelvinb97@outlook.com
+💻 Social Media: [LinkdIn][linkdin-link], [instagram][instagram-link] and [reddit][reddit-link]
 
-<!---
-KelvinBastow/KelvinBastow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[linkdin-link]: https://www.linkedin.com/in/kelvinbastow
+[instagram-link]: https://www.instagram.com/kelvinbastow
+[reddit-link]: https://www.reddit.com/user/KelvinBastow/
