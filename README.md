@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KelvinBastow
 - 👀 I’m interested in: Cycling, Pthography and all things Technology!
-- 🌱 I’m currently learning: Python and AWS to become a DevOps Engineer
+- 🌱 I’m currently learning: Python and AWS to become a DevOps Engineerv for QA LTD
 - 💞️ I’m looking to collaborate on: Anything!!!
 - 📫 How to reach me: kelvinb97@outlook.com
 - 💻 Social Media: [LinkdIn][linkdin-link], [instagram][instagram-link] and [reddit][reddit-link]
