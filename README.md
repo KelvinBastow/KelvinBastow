@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KelvinBastow
-- 👀 I’m interested in: Cycling, Photography and all things Technology!
+- 👀 I’m interested in: Cycling, Film, Music, Photography and all things Technology!
 - 🌱 I’m currently learning: Python and AWS to become a DevOps Engineerv for QA LTD
 - 💞️ I’m looking to collaborate on: Anything!!!
 - 📫 How to reach me: kelvinb97@outlook.com
