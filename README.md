@@ -7,4 +7,4 @@
 
 [linkdin-link]: https://www.linkedin.com/in/kelvinbastow
 [instagram-link]: https://www.instagram.com/kelvinbastow
-[reddit-link]: https://www.reddit.com/user/KelvinBastow/
+[reddit-link]: https://www.reddit.com/user/KelvinBastow
